@@ -3,8 +3,8 @@
 
 <h3> :man: &nbsp;Sobre mim </h3>
 
-- 🎓 &nbsp; Estudando Ciência da Computação no Pitágoras.
-- 🌱 &nbsp; Aprendendo mais sobre Front-end.
+- 🎓 &nbsp; Formado em Ciência da Computação.
+- 🌱 &nbsp; Entusiasta FrontEnd.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
